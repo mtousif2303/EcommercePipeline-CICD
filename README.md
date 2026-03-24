@@ -32,6 +32,14 @@ A containerised **Streamlit** data-visualisation app that fetches live e-commerc
 
 ## Architecture
 
+
+<img width="1558" height="1112" alt="image" src="https://github.com/user-attachments/assets/cb88623c-c75f-463a-a468-ba1622b0c380" />
+
+
+<img width="1560" height="780" alt="image" src="https://github.com/user-attachments/assets/58d563f3-6019-4b53-ab2e-2e1c4f62ff57" />
+
+
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                        External APIs                            │
